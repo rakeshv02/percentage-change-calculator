@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://percentage-change-calculator.tabutility.com/sitemap.xml
